@@ -21,6 +21,8 @@
 
 ---
 
+<!-- ================================================================================================================================================================================================ -->
+<!--
 ### 👨‍💻 About Me
 
 I am currently a Ph.D. student specializing in **AI + Games**, jointly trained by [Zhongguancun Academy (ZGCA)](https://bjzgca.edu.cn/) and [Southern University of Science and Technology (SUSTech)](https://sustech.edu.cn/). 
@@ -46,15 +48,40 @@ I am currently a Ph.D. student specializing in **AI + Games**, jointly trained b
 | **2023.07 - 2024.08** | **GPU Algo Engineer** | **Shenzhen ICube Tech** | **GPU Systems** |
 | **2020.09 - 2023.07** | **Master's Degree** | **Tsinghua University** | **Material Science** |
 
+-->
+
+<!-- ================================================================================================================================================================================================ -->
+
+### 👨‍💻 About Me
+
+I am currently a Ph.D. student specializing in **AI + Games**, jointly trained by [Zhongguancun Academy (ZGCA)](https://bjzgca.edu.cn/) and [Southern University of Science and Technology (SUSTech)](https://sustech.edu.cn/). 
+
+My research journey is driven by a passion for the gaming industry, aiming to bridge the gap between advanced AI algorithms and interactive entertainment.
+
+- 🔭 **Current Focus:** I am a member of the **[AI Game Lab](https://zgc-webcompetition.gitee.io/aigame-lab/)**, supervised by **Prof. [Jian Zhao](https://jianzhao-zgci.github.io/)**. My work revolves around intelligent agents, game environment simulation, and AI-driven content generation.
+- 🌱 **Background:** My path reflects a transition from hardware materials to system algorithms, and finally to AI applications.
+
+### 🚀 Experience & Education Timeline
+
+| Period | Role / Degree | Institution / Company | Focus |
+| :--- | :--- | :--- | :--- |
+| **2025.09 - Present** | **Ph.D. Student** | **ZGCA & SUSTech** | **AI + Games** <br> Researching AI applications in the game industry. |
+| **2023.07 - 2024.08** | **GPU Algo Engineer** | **Shenzhen ICube Technology** | **GPU Systems** <br> Worked on system-level algorithms and optimization. |
+| **2020.09 - 2023.07** | **Master's Degree** | **Tsinghua University** | **Flexible Electronics** <br> Research on advanced materials. |
+
+
 ### 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 <br>
