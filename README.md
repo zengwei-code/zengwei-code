@@ -61,6 +61,7 @@ My research journey is driven by a passion for the gaming industry, aiming to br
 - 🔭 **Current Focus:** I am a member of the **[AI Game Lab](https://zgc-webcompetition.gitee.io/aigame-lab/)**, supervised by **Prof. [Jian Zhao](https://jianzhao-zgci.github.io/)**. My work revolves around intelligent agents, game environment simulation, and AI-driven content generation.
 - 🌱 **Background:** My path reflects a transition from hardware materials to system algorithms, and finally to AI applications.
 
+<!--
 ### 🚀 Experience & Education Timeline
 
 | Period | Role / Degree | Institution / Company | Focus |
@@ -68,7 +69,15 @@ My research journey is driven by a passion for the gaming industry, aiming to br
 | **2025.09 - Present** | **Ph.D. Student** | **ZGCA & SUSTech** | **AI + Games** <br> Researching AI applications in the game industry. |
 | **2023.07 - 2024.08** | **GPU Algo Engineer** | **Shenzhen ICube Technology** | **GPU Systems** <br> Worked on system-level algorithms and optimization. |
 | **2020.09 - 2023.07** | **Master's Degree** | **Tsinghua University** | **Flexible Electronics** <br> Research on advanced materials. |
+-->
 
+### 🚀 Experience & Education Timeline
+
+| Period | Role / Degree | Institution / Company | Research & Focus |
+| :--- | :--- | :--- | :--- |
+| **2024.09 - Pres.** | **Ph.D. Student** | [ZGCA](https://bjzgca.edu.cn/) & [SUSTech](https://sustech.edu.cn/) | **AI + Games** <br> *Intelligent agents & content generation* |
+| **2023.07 - 2024.09** | **GPU Algo Engineer** | Shenzhen ICube Tech | **GPU Systems** <br> *System-level optimization & algorithms* |
+| **2020.09 - 2023.07** | **Master's Degree** | [Tsinghua University](https://www.tsinghua.edu.cn/) | **Flexible Electronics** <br> *Advanced functional materials* |
 
 ### 🛠️ Tech Stack
 
