@@ -51,7 +51,7 @@ My research focuses on **AI for Games** — building next-generation game engine
 | :--- | :--- | :--- | :--- |
 | **2024.09 — Present** | **Ph.D. Student** | [ZGC Academy](https://bjzgca.edu.cn/) & [SUSTech](https://sustech.edu.cn/) | **AI for Games** · Generative game engines & neural rendering |
 | **2023.07 — 2024.09** | **GPU System Algorithm Engineer** | CEC Microelectronics (中国电子集团) | **GPU Systems** · CUDA kernel optimization & AIGC deployment |
-| **2020.09 — 2023.07** | **M.S. Electronic Information** | [Tsinghua University](https://www.tsinghua.edu.cn/) | **Signal & Information Processing** |
+| **2020.09 — 2023.07** | **M.S. Electronic Information** | Tsinghua University | **Signal & Information Processing** |
 | **2016.09 — 2020.07** | **B.S. Biomedical Engineering** | Guangzhou Univ. of Chinese Medicine | **Rank 1st** · Recommended to Tsinghua for M.S. |
 
 </div>
