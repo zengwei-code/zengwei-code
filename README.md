@@ -73,11 +73,15 @@ My research journey is driven by a passion for the gaming industry, aiming to br
 
 ### 🚀 Experience & Education Timeline
 
+<div align="center">
+
 | Period | Role / Degree | Institution / Company | Research & Focus |
 | :--- | :--- | :--- | :--- |
 | **2024.09 - Pres.** | **Ph.D. Student** | [ZGCA](https://bjzgca.edu.cn/) & [SUSTech](https://sustech.edu.cn/) | **AI + Games** <br> *Intelligent agents & content generation* |
-| **2023.07 - 2024.09** | **GPU Algo Engineer** | Shenzhen ICube Tech | **GPU Systems** <br> *System-level optimization & algorithms* |
+| **2023.07 - 2024.09** | **GPU Algo Engineer** | [Shenzhen ICube Tech](http://www.icubecorp.cn/) | **GPU Systems** <br> *System-level optimization & algorithms* |
 | **2020.09 - 2023.07** | **Master's Degree** | [Tsinghua University](https://www.tsinghua.edu.cn/) | **Flexible Electronics** <br> *Advanced functional materials* |
+
+</div>
 
 ### 🛠️ Tech Stack
 
